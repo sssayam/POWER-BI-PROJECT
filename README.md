@@ -1,2 +1,2 @@
 # POWER-BI-PROJECT
-I made Graphs and explanation regarding it.
+I made Graphs on POWER BI and explanation regarding it.
